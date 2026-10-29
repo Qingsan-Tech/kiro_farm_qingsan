@@ -1,0 +1,13 @@
+# secrets — never commit
+accounts.txt
+tokens.json
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# os
+.DS_Store
